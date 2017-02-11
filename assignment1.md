@@ -23,4 +23,4 @@ Enrollment No.: | Name | Repo link
 150303105104 | Pankil Parikh | [Repo]( https://github.com/ParulProgrammingHub/assignment-1-pankilparikh)
 150303105134 | PATRL MILIN VIJAYKUMAR | [Repo](https://github.com/ParulProgrammingHub/assignment-1-milinpatel13298)
 150303105127 | Harsh Patel | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Harshpatel44)
-150303105055 | Anindita Guha [Repo](https://github.com/ParulProgrammingHub/assignment-1-riyashekann)
+150303105055 | Anindita Guha | [Repo](https://github.com/ParulProgrammingHub/assignment-1-riyashekann)
