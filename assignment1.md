@@ -15,7 +15,6 @@ Enrollment No.: | Name | Repo link
 150303105013 | Aishwarya Bhatt | [Repo](https://github.com/ParulProgrammingHub/assignment-1-sai2396)
 150303105015 | Devang Bhimani |[Repo](https://github.com/ParulProgrammingHub/assignment-1-DevangBhimani.git)
 150303105017 | Shivang Chaniyara | [Repo](https://github.com/ParulProgrammingHub/assignment-1-SHIVANGCHANIYARA.git)
-150303105018 | Prashansa Chaudhary |[Repo](https://github.com/ParulProgrammingHub/assignment-1-prashansa29)
 150303105018 | Prashansa Chaudhary | [Repo](https://github.com/ParulProgrammingHub/assignment-1-prashansa29l.git)
 150303105024 | Dishita Chokshi | [Repo](https://github.com/ParulProgrammingHub/assignment-1-dishu-1709)
 150303105028 | CHOUDHARY BHARAT |[Repo](https://github.com/ParulProgrammingHub/assignment-1-bharatchoudhary28)
