@@ -4,7 +4,7 @@ permalink: assignment1.html
 ---
 ## Assignment 1 Completion Sheet
 
-Note: Align by enrollment number.
+### Note: Align by enrollment number.
 
 Enrollment No.: | Name | Repo link
 ------------ | ------------- | -------------
