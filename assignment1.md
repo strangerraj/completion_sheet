@@ -8,7 +8,6 @@ Note: Align by enrollment number.
 
 Enrollment No.: | Name | Repo link
 ------------ | ------------- | -------------
-123 | This is a test to showcase how to add | [Repo](https://github.com/ParulProgrammingHub/assignment-1-NoelMacwan)
 150303105003 | Aghariya Abidhussain A | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AghariyaAbidhussain.git)
 150303105012 | Bhagyashri Deshmukh | [Repo](https://github.com/ParulProgrammingHub/assignment-1-bhagyashrideshmukh12)
 150303105024 | Dishita Chokshi | [Repo](https://github.com/ParulProgrammingHub/assignment-1-dishu-1709)
@@ -22,6 +21,7 @@ Enrollment No.: | Name | Repo link
 150303105069 | Sanyukta Khetan | [Repo](https://github.com/ParulProgrammingHub/assignment-1-SanyuktaKhetan)
 150303105074 | Latika Khemchandani | [Repo](https://github.com/ParulProgrammingHub/assignment-1-LatikaKhemchandani)
 150303105076 | Lotey Gaganpreet | [Repo](https://github.com/ParulProgrammingHub/assignment-1-gaganlotey)
+150303105077 | Noel Macwan | [Repo](https://github.com/ParulProgrammingHub/assignment-1-NoelMacwan)
 150303105078 | Kushagra Makharia | [Repo](https://github.com/ParulProgrammingHub/assignment-1-KushagraMakharia)
 150303105088 | Sonia Mirani | [Repo](https://github.com/ParulProgrammingHub/assignment-1-soniamirani)
 150303105091 | Vidhi Mistry | [repo](https://github.com/ParulProgrammingHub/assignment-1-vidhi2372)
