@@ -9,6 +9,7 @@ Note: Align by enrollment number.
 Enrollment No.: | Name | Repo link
 ------------ | ------------- | -------------
 123 | This is a test to showcase how to add | [Repo](https://github.com/ParulProgrammingHub/assignment-1-NoelMacwan)
+150303105054 | Kevin Gokani | [Repo](https://github.com/ParulProgrammingHub/assignment-1-kevin054)
 150303105061 | NIKITA JAIN | [REPO](https://github.com/ParulProgrammingHub/assignment-1-nikitajain1998)
 150303105078 | Kushagra Makharia | [Repo](https://github.com/ParulProgrammingHub/assignment-1-KushagraMakharia)
 150303105100 | Rishabh Panchal | [Repo](https://github.com/ParulProgrammingHub/assignment-1-rjpanchal-24)
