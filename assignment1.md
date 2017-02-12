@@ -8,6 +8,7 @@ permalink: assignment1.html
 
 Enrollment No.: | Name | Repo link
 ------------ | ------------- | -------------
+150303105001 | Mritesh Adak | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Swacch-Bharat.git)
 150303105003 | Aghariya Abidhussain A | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AghariyaAbidhussain.git)
 150303105004 | Chintan Ahir | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AHIRCHINTAN.git)
 150303105005 | Mayank Ahir |[Repo](https://github.com/ParulProgrammingHub/assignment-1-MayankAhir.git)
