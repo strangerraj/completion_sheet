@@ -52,6 +52,7 @@ Enrollment No.: | Name | Repo link
 150303105093 | Pavan Motwani |[repo](https://github.com/ParulProgrammingHub/assignment-1-Pavan098)
 150303105094 | RAJ NADA| [Repo](https://github.com/ParulProgrammingHub/assignment-1-rajnada) 
 150303105096 | Keyur Nakrani | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Keyur13.git)
+150303105098 | Nitesh Narang | [Repo](https://github.com/ParulProgrammingHub/assignment-1-nit-sh.git)
 150303105100 | Rishabh Panchal | [Repo](https://github.com/ParulProgrammingHub/assignment-1-rjpanchal-24)
 150303105101 | Prakash Pandey | [Repo](https://github.com/ParulProgrammingHub/assignment-1-prakash3)
 150303105103 | Palak Parekh | [Repo](https://github.com/ParulProgrammingHub/assignment-1-palakparekh)
