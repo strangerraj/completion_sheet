@@ -70,6 +70,7 @@ Enrollment No.: | Name | Repo link
 150303105101 | Prakash Pandey | [Repo](https://github.com/ParulProgrammingHub/assignment-1-prakash3)
 150303105103 | Palak Parekh | [Repo](https://github.com/ParulProgrammingHub/assignment-1-palakparekh)
 150303105104 | Pankil Parikh | [Repo](https://github.com/ParulProgrammingHub/assignment-1-pankilparikh)
+150303105112 | Parmar Pratiksha | [Repo](https://github.com/ParulProgrammingHub/assignment-1-pratiksha2910)
 150303105114 | Patel Abdul | [Repo](https://github.com/ParulProgrammingHub/assignment-1-PATELAP)
 150303105120 | DARSH PATEL | [Repo](https://github.com/ParulProgrammingHub/assignment-1-DarshPatel97)
 150303105124 | Patel Dhruval | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Dhruval333.git)
