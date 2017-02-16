@@ -50,6 +50,7 @@ Enrollment No.: | Name | Repo link
 150303105064 | Kanani Kapilkumar | [Repo](https://github.com/ParulProgrammingHub/assignment-1-KAPILKANANI)
 150303105066 | Darshan karia  | [Repo](https://github.com/ParulProgrammingHub/assignment-1-darshan7karia) 
 150303105069 | Sanyukta Khetan | [Repo](https://github.com/ParulProgrammingHub/assignment-1-SanyuktaKhetan)
+150303105070 | Simran Krishnani | [Repo]( https://github.com/ParulProgrammingHub/assignment-1-SimranKrishnani)
 150303105072 | Lathiya Dhruvil | [Repo](https://github.com/ParulProgrammingHub/assignment-1-dhruvil14.git)
 150303105074 | Latika Khemchandani | [Repo](https://github.com/ParulProgrammingHub/assignment-1-LatikaKhemchandani)
 150303105075 | Mufaddal Laxmidhar | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Tachyon52)
