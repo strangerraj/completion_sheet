@@ -9,7 +9,8 @@ permalink: assignment1.html
 Enrollment No.: | Name | Repo link
 ------------ | ------------- | -------------
 150303105001 | Mritesh Adak | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Swacch-Bharat.git)
-150303105003 | Aghariya Abidhussain A | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AghariyaAbidhussain.git)150303105004 | Chintan Ahir | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AHIRCHINTAN.git)
+150303105003 | Aghariya Abidhussain A | [Repo](https://github.com/ParulProgrammingHub/assignment1-AghariyaAbidhussain.git)
+150303105004 | Chintan Ahir | [Repo](https://github.com/ParulProgrammingHub/assignment-1-AHIRCHINTAN.git)
 150303105005 | Mayank Ahir |[Repo](https://github.com/ParulProgrammingHub/assignment-1-MayankAhir.git)
 150303105008 | Arun Kochukadavil | [Repo](https://github.com/ParulProgrammingHub/assignment-1-Arun10061997.git)
 150303105010 | Chirag J Bavishi | [Repo](https://github.com/ParulProgrammingHub/assignment-1-chiragbavishi.git)
@@ -84,6 +85,6 @@ Enrollment No.: | Name | Repo link
 150303105136 | Neel Patel  |[Repo](https://github.com/ParulProgrammingHub/assignment-1-neel2468)
 150303105160 | Daniel M. Phiri |[Repo](https://github.com/ParulProgrammingHub/assignment-1-malgamves)
 150303105161 | JAYKISHAN PIPALIYA |[Repo](https://github.com/ParulProgrammingHub/assignment-1-jkpipaliya.git)
+150303105167 | Parth Purohit | [Repo](https://github.com/ParulProgrammingHub/assignment-1-parthpurohit.git)
 150303105178 | Sumit Saini |[Repo](https://github.com/ParulProgrammingHub/assignment-1-Sumit7991.git)
 150303105203 | Jay Tandel | [Repo](https://github.com/ParulProgrammingHub/assignment-1-347jay)
-150303105167 | Parth Purohit | [Repo](https://github.com/ParulProgrammingHub/assignment-1-parthpurohit.git)
